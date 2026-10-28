@@ -1,0 +1,7 @@
+{
+  "name": "BlockStack Tetris",
+  "description": "A polished, responsive modern arcade Tetris web game featuring all 7 classic tetrominoes, hold piece, next queue, ghost drop preview, increasing levels, and local high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
